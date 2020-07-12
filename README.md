@@ -7,3 +7,8 @@
 - [Facebook](https://fb.com/dinghi.19091999)
 - [LinkedIn](https://www.linkedin.com/in/haidv99)
 - [Twitter](https://twitter.com/haidv99)
+
+
+
+![](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
+
