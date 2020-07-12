@@ -4,6 +4,6 @@
 
 ### Check out my social medias:
 
-- 💬 [Facebook](https://fb.com/dinghi.19091999)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/haidv99)
-- 🐦 [Twitter](https://twitter.com/haidv99)
+- [Facebook](https://fb.com/dinghi.19091999)
+- [LinkedIn](https://www.linkedin.com/in/haidv99)
+- [Twitter](https://twitter.com/haidv99)
