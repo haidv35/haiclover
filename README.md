@@ -4,10 +4,6 @@
 
 ### Check out my social medias:
 
-- [Facebook](https://fb.com/dinghi.19091999)
-- [LinkedIn](https://www.linkedin.com/in/haidv99)
-- [Twitter](https://twitter.com/haidv99)
-
 <p align="center">
 <a href="https://codepen.io/haiclover" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="haiclover" height="20" width="20" /></a>
 <a href="https://dev.to/haiclover" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="haiclover" height="20" width="20" /></a>
